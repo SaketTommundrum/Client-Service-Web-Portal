@@ -6,4 +6,3 @@ To Run The following code
 5. Next in the second terminal run the command cd frontend this will change the directory of the folder to frontend
 6. Next run npm i to install all the dependencies
 7. then run the npm start command to start the react frontend terminal
-   
